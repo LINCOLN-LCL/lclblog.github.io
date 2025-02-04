@@ -1,5 +1,48 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>LINCOLN–LCL的简易Blog</title><link>https://LINCOLN-LCL.github.io/lclblog.github.io</link><description>this is lcl-鲁成乐-aka-不动声色 让你心肌梗塞 实行闭关政策 请您痛心铭刻</description><copyright>LINCOLN–LCL的简易Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://camo.githubusercontent.com/9b73943ae00d562132d7f9372b115861d4659646ddfe73421a092df5bf928b96/68747470733a2f2f63646e2e6e6c61726b2e636f6d2f79757175652f302f323032342f706e672f34323731343638342f313732333232383539313537342d39663035316539612d343030302d343538332d613266352d6130653431393233356566322e706e673f782d6f73732d70726f636573733d696d616765253246666f726d617425324377656270253246726573697a65253243775f313038302532436c696d69745f30</url><title>avatar</title><link>https://LINCOLN-LCL.github.io/lclblog.github.io</link></image><lastBuildDate>Tue, 04 Feb 2025 06:35:56 +0000</lastBuildDate><managingEditor>LINCOLN–LCL的简易Blog</managingEditor><ttl>60</ttl><webMaster>LINCOLN–LCL的简易Blog</webMaster><item><title>代码工程概念</title><link>https://LINCOLN-LCL.github.io/lclblog.github.io/post/dai-ma-gong-cheng-gai-nian.html</link><description>1. 类的基本思想是数据抽象（data abstraction）和封装（encapsulation）。</description><guid isPermaLink="true">https://LINCOLN-LCL.github.io/lclblog.github.io/post/dai-ma-gong-cheng-gai-nian.html</guid><pubDate>Mon, 03 Feb 2025 17:52:31 +0000</pubDate></item><item><title>介绍</title><link>https://LINCOLN-LCL.github.io/lclblog.github.io/post/jie-shao.html</link><description># lclblog.github.io
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>LINCOLN–LCL的简易Blog</title><link>https://LINCOLN-LCL.github.io/lclblog.github.io</link><description>this is lcl-鲁成乐-aka-不动声色 让你心肌梗塞 实行闭关政策 请您痛心铭刻</description><copyright>LINCOLN–LCL的简易Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://camo.githubusercontent.com/9b73943ae00d562132d7f9372b115861d4659646ddfe73421a092df5bf928b96/68747470733a2f2f63646e2e6e6c61726b2e636f6d2f79757175652f302f323032342f706e672f34323731343638342f313732333232383539313537342d39663035316539612d343030302d343538332d613266352d6130653431393233356566322e706e673f782d6f73732d70726f636573733d696d616765253246666f726d617425324377656270253246726573697a65253243775f313038302532436c696d69745f30</url><title>avatar</title><link>https://LINCOLN-LCL.github.io/lclblog.github.io</link></image><lastBuildDate>Tue, 04 Feb 2025 13:15:31 +0000</lastBuildDate><managingEditor>LINCOLN–LCL的简易Blog</managingEditor><ttl>60</ttl><webMaster>LINCOLN–LCL的简易Blog</webMaster><item><title>Markdown语法</title><link>https://LINCOLN-LCL.github.io/lclblog.github.io/post/Markdown-yu-fa.html</link><description># Markdown语法大全
+
+### 强调信息
+
+```
+&gt; [!NOTE]
+&gt; Useful information that users should know, even when skimming content.
+
+&gt; [!TIP]
+&gt; Helpful advice for doing things better or more easily.
+
+&gt; [!IMPORTANT]
+&gt; Key information users need to know to achieve their goal.
+
+&gt; [!WARNING]
+&gt; Urgent info that needs immediate user attention to avoid problems.
+
+&gt; [!CAUTION]
+&gt; Advises about risks or negative outcomes of certain actions.
+```
+
+- 效果
+
+
+&gt; [!NOTE]
+&gt; Useful information that users should know, even when skimming content.
+
+&gt; [!TIP]
+&gt; Helpful advice for doing things better or more easily.
+
+&gt; [!IMPORTANT]
+&gt; Key information users need to know to achieve their goal.
+
+&gt; [!WARNING]
+&gt; Urgent info that needs immediate user attention to avoid problems.
+
+&gt; [!CAUTION]
+&gt; Advises about risks or negative outcomes of certain actions.
+
+---
+
+###  空格
+
+连续空格类似于单行换行符，大多数Markdown引擎都会忽略它们。</description><guid isPermaLink="true">https://LINCOLN-LCL.github.io/lclblog.github.io/post/Markdown-yu-fa.html</guid><pubDate>Tue, 04 Feb 2025 13:15:00 +0000</pubDate></item><item><title>代码工程概念</title><link>https://LINCOLN-LCL.github.io/lclblog.github.io/post/dai-ma-gong-cheng-gai-nian.html</link><description>1. 类的基本思想是数据抽象（data abstraction）和封装（encapsulation）。</description><guid isPermaLink="true">https://LINCOLN-LCL.github.io/lclblog.github.io/post/dai-ma-gong-cheng-gai-nian.html</guid><pubDate>Mon, 03 Feb 2025 17:52:31 +0000</pubDate></item><item><title>介绍</title><link>https://LINCOLN-LCL.github.io/lclblog.github.io/post/jie-shao.html</link><description># lclblog.github.io
 markdown简易blog---lcl
 - https://lincoln-lcl.github.io/lclblog.github.io/
 # LCL-LINCOLN
