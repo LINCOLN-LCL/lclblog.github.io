@@ -1,0 +1,2 @@
+- https://app.simplenote.com/p/xJrMLg
+- http://simp.ly/p/xJrMLg
